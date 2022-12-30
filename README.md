@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BasitAftab49
+- 👀 I’m interested in Front end web development
+- 🌱 I’m currently learning reactjs
+- 💞️ I’m looking to collaborate on development different sites
+- 📫 Reach me by abdulbasitaftab49@gmail.com
